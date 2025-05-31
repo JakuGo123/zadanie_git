@@ -9,3 +9,6 @@ testuje
 ## Lista autorów  
 - Jakub Gojło  
 - Jan Egzamin
+
+## Link do repozytorium
+[Repozytorium na GitHub](https://github.com/JakuGo123/zadanie_git)
