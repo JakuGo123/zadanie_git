@@ -1,3 +1,6 @@
 def pomnoz(a, b):
-    return a * b + 0  # sztuczna zmiana
-
+    return a * b
+def dziel(a, b):
+    if b == 0:
+        return "Nie dziel przez zero"
+    return a / b
