@@ -3,8 +3,8 @@
 ## Cel  
 Nauczyć się inicjować repozytorium Git, konfigurować użytkownika i aliasy, oraz wykonywać pierwszy commit.
 
-## test
-testuje 
+## Pliki ignorowane
+- `sekret.txt` – prywatny plik ignorowany za pomocą `.gitignore`
 
 ## Lista autorów  
 - Jakub Gojło  
